@@ -22,7 +22,7 @@ On one side, the client compartment is written in HTML5 and is easily accessible
 
 In a simple configuration, both compartments are setup on the local machine, e.g. PC or laptops. Moreover, NEST Server can be installed on the remote machine (e.g. server, cloud, cluster computers, super computer) or within virtual machine (e.g. Docker, Singularity). See [instructions](https://github.com/babsey/nest-server) to setup NEST Server.
 
-Advanced developer can pull the source code of NEST Desktop to deploy the application on the server (See [installation instructions](https://github.com/babsey/nest-desktop/INSTALL.md)).
+Advanced developer can pull the source code of NEST Desktop to deploy the application on the server (See [installation instructions](https://github.com/babsey/nest-desktop)).
 
 
 ### License [MIT](LICENSE)
