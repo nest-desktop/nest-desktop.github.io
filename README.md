@@ -1,28 +1,53 @@
-# NEST Desktop
+<p>
+  <img src="static/img/start-page.png" />
+</p>
 
-**An interactive desktop application for [NEST simulator](http://www.nest-simulator.org/)**
+GitHub
+[![commit activity](https://img.shields.io/github/commit-activity/y/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
+[![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers)
+[![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members)
 
-![nest logo](app/img/nest-desktop-logo.png)
+PyPI
+[![pypi](https://img.shields.io/pypi/v/nest-desktop?label=version)](https://pypi.org/project/nest-desktop/)
+[![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
+
+DockerHub
+[![docker version](https://img.shields.io/docker/v/nestdesktop/app/dev)](https://hub.docker.com/r/nestdesktop/app)
+[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/dev)](https://hub.docker.com/r/nestdesktop/app)
+[![docker pulls](https://img.shields.io/docker/pulls/nestdesktop/app)](https://hub.docker.com/r/nestdesktop/app)
+
+[![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
+[![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.06.15.444791-blue)](https://doi.org/10.1101/2021.06.15.444791)
 
 
-### Abstract
+---
 
-In the past few years, we have developed a web-based graphical user interface (GUI) for the NEST simulation code of the NEST Desktop. This GUI enables the rapid construction, parametrization, and instrumentation of neuronal network models typically used in computational neuroscience. The primary objective of our development was to create a tool of classroom strength that allows non-specialists to rapidly explore interesting neuroscience concepts without the need to learn a simulator control language at the same time.
+NEST Desktop is a web-based application which provides a graphical user interface for [NEST Simulator](https://nest-simulator.org). With this easy-to-use tool, users can interactively construct neuronal networks and explore network dynamics.
 
-To date, we have used NEST Desktop very successfully in two courses at the University of Freiburg addressing students at the bachelor, master, and graduate level with diverse background including biology, physics, computer science and electrical engineering (Single Neuron Modeling and Biophysics of Neurons and Networks). NEST Desktop replaced the Mathematica notebooks we used for many years. With the new tool, we observed much faster learning progress than before and a highly motivating effect on the side of the students.
+Advanced users often choose NEST Simulator: a prominent tool for spiking neuronal networks to measure network dynamics.
+However, programming knowledge is required to write code for this tool.
+NEST Desktop bypasses this requirement, but still teaches users how to construct and explore neuronal networks.
+A textual script is generated from the constructed networks and sent to NEST Simulator;
+the network activity is then visualized in a graph or table.
+It is a useful teaching tool, since the network graphs and network activity visualizations can be exported to files that users can implement for their course protocol.
 
-Currently, NEST Desktop requires NEST Server with a full NEST installation, limiting uptake by a non-expert audience and limiting networks studied to such that can be simulated on a laptop. To ease the use of NEST Desktop and the range of simulations possible with NEST Desktop, we want to separate GUI from simulation kernel, rendering the GUI in the web browser of the user, while the simulation kernel is running on a centrally maintained server.
+NEST Desktop is available on [EBRAINS](https://ebrains.eu/service/nest-desktop) (free EBRAINS account required).
+
+### Quick start
+
+To get started with NEST Desktop and NEST Server, use Docker compose with the configuration file:
+
+```
+wget https://raw.githubusercontent.com/nest-desktop/nest-desktop/main/docker-compose.yml
+docker-compose up --build
+```
+For more information, please see the [User Documentation Page](https://nest-desktop.readthedocs.io).
 
 
-### Architecture
+### Citation
 
-This GUI Application NEST Desktop is developed for the client side and NEST Server for the server side. These two compartments use web socket (by default on port 5000) to communicate to each other.
-
-On one side, the client compartment is written in HTML5 and is easily accessible for the users. On the other side the server compartment is written in Python and is designed to construct and to simulate neuronal networks in a Python interface PyNEST implemented in NEST code.
-
-In a simple configuration, both compartments are setup on the local machine, e.g. PC or laptops. Moreover, NEST Server can be installed on the remote machine (e.g. server, cloud, cluster computers, super computer) or within virtual machine (e.g. Docker, Singularity). See [instructions](https://github.com/babsey/nest-server) to setup NEST Server.
-
-Advanced developer can pull the source code of NEST Desktop to deploy the application on the server (See [installation instructions](https://github.com/babsey/nest-desktop)).
+You can use reference to the preprint for NEST Desktop which is available on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.444791v1).
 
 
 ### License [MIT](LICENSE)
