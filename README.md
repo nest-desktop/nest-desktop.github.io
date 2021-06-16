@@ -1,5 +1,7 @@
 <p>
-  <img src="static/img/start-page.png" />
+  <a href="./app">
+    <img src="static/img/start-page.png" />
+  </a>
 </p>
 
 GitHub
