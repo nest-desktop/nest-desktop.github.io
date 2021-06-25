@@ -5,7 +5,7 @@
 </p>
 
 GitHub
-[![commit activity](https://img.shields.io/github/commit-activity/y/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
+[![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
 [![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers)
 [![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members)
 
@@ -14,8 +14,8 @@ PyPI
 [![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
 
 DockerHub
-[![docker version](https://img.shields.io/docker/v/nestdesktop/app/dev)](https://hub.docker.com/r/nestdesktop/app)
-[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/dev)](https://hub.docker.com/r/nestdesktop/app)
+[![docker version](https://img.shields.io/docker/v/nestdesktop/app/3.0)](https://hub.docker.com/r/nestdesktop/app)
+[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/3.0)](https://hub.docker.com/r/nestdesktop/app)
 [![docker pulls](https://img.shields.io/docker/pulls/nestdesktop/app)](https://hub.docker.com/r/nestdesktop/app)
 
 [![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
@@ -49,7 +49,7 @@ For more information, please see the [User Documentation Page](https://nest-desk
 
 ### Citation
 
-You can use reference to the preprint for NEST Desktop which is available on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.444791v1).
+You can use reference to the preprint for NEST Desktop which is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.15.444791v1).
 
 
 ### License [MIT](LICENSE)
