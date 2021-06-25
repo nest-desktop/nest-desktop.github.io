@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.56c3f5e47a73f60052853f81cf88d088.js"
+  "/precache-manifest.23caa132df0bf4bd6897e59f7407590c.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "nest-desktop-v3"});
+workbox.core.setCacheNameDetails({prefix: "nest-desktop"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
