@@ -1,8 +1,4 @@
-<p>
-  <a href="./app">
-    <img src="static/img/start-page.png" />
-  </a>
-</p>
+# NEST Desktop
 
 GitHub
 [![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
