@@ -38,7 +38,9 @@ DockerHub
 Paper
 [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.06.15.444791-blue)](https://doi.org/10.1101/2021.06.15.444791)
 
+Documentation
 [![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
+
 [![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
 
 ### License [MIT](LICENSE)
