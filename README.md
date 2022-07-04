@@ -17,6 +17,7 @@ However, it operates without the simulation backend.
 - [v2.3.2](https://nest-desktop.github.io/archives/v2.3.2/)
 - [v2.2.15](https://nest-desktop.github.io/archives/v2.2.15/)
 - [v2.1.3](https://nest-desktop.github.io/archives/v2.1.3/)
+- [v2.0.7](https://nest-desktop.github.io/archives/v2.0.7/)
 
 
 ### Badges
