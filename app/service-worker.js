@@ -11,13 +11,15 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.23caa132df0bf4bd6897e59f7407590c.js"
+  "/precache-manifest.c8009510ce2ac11c9fe4e57ab4a2129e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nest-desktop"});
+
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -25,5 +27,4 @@ workbox.core.setCacheNameDetails({prefix: "nest-desktop"});
  * See https://goo.gl/S9QRab
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
