@@ -5,8 +5,9 @@ For more information, please read [the user documentation](http://nest-desktop.r
 
 ### Live demo of the application
 
-We provide a [live demo](https://nest-desktop.github.io/app){:target="_blank"} of current NEST Desktop.
-However, it operates without the simulation backend.
+We provide a [live demo](https://nest-desktop.github.io/app){:target="_blank"} of current NEST Desktop
+but without the backend for the simulation.
+To experience the app in full operation you can set the URL of the NEST Server.
 
 
 ### Badges
