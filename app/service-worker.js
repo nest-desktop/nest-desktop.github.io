@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c8009510ce2ac11c9fe4e57ab4a2129e.js"
+  "precache-manifest.0d548c8c0eb5cfe8cc4bcdd42c5dedbf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nest-desktop"});
