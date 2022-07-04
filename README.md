@@ -27,13 +27,15 @@ NEST Desktop is a web-based application which provides a graphical user interfac
 For more information, please read [the user documentation](http://nest-desktop.readthedocs.io).
 
 
-### Live demo
+### Live demo of the application
 
-We provide a live demo of current NEST Desktop.
+We provide a [live demo](https://nest-desktop.github.io/app) of current NEST Desktop.
 However, it operates without the simulation backend.
 
 
-### Demo archives (might be broken)
+
+
+### App archives (might be broken)
 
 - [v3.0.3](https://nest-desktop.github.io/archives/v3.0.3/)
 - [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/)
