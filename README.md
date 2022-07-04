@@ -34,7 +34,9 @@ Documentation
 [![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
 
 
-### App archives (might be broken)
+### App archives
+
+Please remove cookies before you start older app.
 
 - [v3.0.3](https://nest-desktop.github.io/archives/v3.0.3/)
 - [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/)
