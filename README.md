@@ -31,8 +31,8 @@ PyPI
 [![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
 
 DockerHub
-[![docker version](https://img.shields.io/docker/v/nestdesktop/app/3.0)](https://hub.docker.com/r/nestdesktop/app)
-[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/3.0)](https://hub.docker.com/r/nestdesktop/app)
+[![docker version](https://img.shields.io/docker/v/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app)
+[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app)
 [![docker pulls](https://img.shields.io/docker/pulls/nestdesktop/app)](https://hub.docker.com/r/nestdesktop/app)
 
 Paper
