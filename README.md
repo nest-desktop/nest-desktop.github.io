@@ -35,6 +35,7 @@ However, it operates without the simulation backend.
 
 ### Archives of demo (might be broken)
 
+- [v3.0.3](https://nest-desktop.github.io/archives/v3.0.3/)
 - [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/)
 - [v2.4.1](https://nest-desktop.github.io/archives/v2.4.1/)
 - [v2.3.2](https://nest-desktop.github.io/archives/v2.3.2/)
