@@ -1,4 +1,4 @@
-NEST Desktop is a web-based application which provides a graphical user interface for [NEST Simulator](https://nest-simulator.org). With this easy-to-use tool, users can interactively construct neuronal networks and explore network dynamics.
+NEST Desktop is a web-based application which provides a graphical user interface for [NEST Simulator](https://nest-simulator.org){:target="_blank"}. With this easy-to-use tool, users can interactively construct neuronal networks and explore network dynamics.
 
 For more information, please read [the user documentation](http://nest-desktop.readthedocs.io){:target="_blank"}.
 
@@ -12,26 +12,26 @@ However, it operates without the simulation backend.
 ### Badges
 
 GitHub
-[![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
-[![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers)
-[![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members)
+[![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main){:target="_blank"}
+[![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers){:target="_blank"}
+[![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members){:target="_blank"}
 
 PyPI
-[![pypi](https://img.shields.io/pypi/v/nest-desktop?label=version)](https://pypi.org/project/nest-desktop/)
-[![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
+[![pypi](https://img.shields.io/pypi/v/nest-desktop?label=version)](https://pypi.org/project/nest-desktop/){:target="_blank"}
+[![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/){:target="_blank"}
 
 DockerHub
-[![docker version](https://img.shields.io/docker/v/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app)
-[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app)
-[![docker pulls](https://img.shields.io/docker/pulls/nestdesktop/app)](https://hub.docker.com/r/nestdesktop/app)
+[![docker version](https://img.shields.io/docker/v/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app){:target="_blank"}
+[![image size](https://img.shields.io/docker/image-size/nestdesktop/app/latest)](https://hub.docker.com/r/nestdesktop/app){:target="_blank"}
+[![docker pulls](https://img.shields.io/docker/pulls/nestdesktop/app)](https://hub.docker.com/r/nestdesktop/app){:target="_blank"}
 
 Paper
-[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.06.15.444791-blue)](https://doi.org/10.1101/2021.06.15.444791)
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2021.06.15.444791-blue)](https://doi.org/10.1101/2021.06.15.444791){:target="_blank"}
 
 Documentation
-[![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
+[![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io){:target="_blank"}
 
-[![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE){:target="_blank"}
 
 
 ### App archives
