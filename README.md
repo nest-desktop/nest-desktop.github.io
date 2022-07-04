@@ -35,9 +35,9 @@ However, it operates without the simulation backend.
 
 ### Archives of demo (might be broken)
 
-- [v2.5.1](/archives/v2.5.1/)
-- [v2.4.1](/archives/v2.4.1/)
-- [v2.3.2](/archives/v2.3.2/)
-- [v2.2.15](/archives/v2.2.15/)
+- [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/)
+- [v2.4.1](https://nest-desktop.github.io/archives/v2.4.1/)
+- [v2.3.2](https://nest-desktop.github.io/archives/v2.3.2/)
+- [v2.2.15](https://nest-desktop.github.io/archives/v2.2.15/)
 
 ### License [MIT](LICENSE)
