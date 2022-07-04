@@ -1,5 +1,3 @@
-# NEST Desktop
-
 NEST Desktop is a web-based application which provides a graphical user interface for [NEST Simulator](https://nest-simulator.org). With this easy-to-use tool, users can interactively construct neuronal networks and explore network dynamics.
 
 For more information, please read [the user documentation](http://nest-desktop.readthedocs.io).
