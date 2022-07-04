@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#header_wrap {
-  background: #ff6633; // #1281b3;
+.page_header {
+  background-color: #FF6633; // #1281b3;
+  background-image: linear-gradient(120seg, #FF9C26, #FF6633);
 }
