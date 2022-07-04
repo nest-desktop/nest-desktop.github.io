@@ -33,7 +33,7 @@ We provide a live demo of current NEST Desktop.
 However, it operates without the simulation backend.
 
 
-### Archives of demo (might be broken)
+### Demo archives (might be broken)
 
 - [v3.0.3](https://nest-desktop.github.io/archives/v3.0.3/)
 - [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/)
