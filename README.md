@@ -34,7 +34,7 @@ To experience the app in full operation you can set the URL of the NEST Server.
 The data structure of older application might not compatible with the current one.
 Please first delete cookies of the browser before you start an older app.
 
-<!-- - [v3.1.4](https://nest-desktop.github.io/archives/v3.1.4/){:target="_blank"} -->
+- [v3.1.4](https://nest-desktop.github.io/archives/v3.1.4/){:target="_blank"}
 - [v3.0.3](https://nest-desktop.github.io/archives/v3.0.3/){:target="_blank"}
 - [v2.5.1](https://nest-desktop.github.io/archives/v2.5.1/){:target="_blank"}
 - [v2.4.1](https://nest-desktop.github.io/archives/v2.4.1/){:target="_blank"}
