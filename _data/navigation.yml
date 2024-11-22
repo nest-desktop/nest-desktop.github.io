@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "Guides"
+    url: https://nest-desktop.readthedocs.io/
+    target: _blank
+  - title: "Releases"
+    url: https://github.com/nest-desktop/nest-desktop/releases
+    target: _blank
+  # - title: ""
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/

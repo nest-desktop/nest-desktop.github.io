@@ -1,4 +1,54 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.6"
+  overlay_image: /assets/img/concept.jpg
+  actions:
+  - label: "Install now"
+    url: "https://nest-desktop.readthedocs.io/en/latest/user/setup/"
+    target: _blank
+excerpt: "Explore the dynamics of spiking neuronal networks."
+intro:
+  - excerpt: "NEST Desktop is a web-based application to <br />simulate and explore spiking neuronal networks."
+feature_row:
+  - image_path: /assets/img/unsplash/steinar-engeland-GwVmBgpP-PQ-unsplash.jpg
+    alt: "First step videos"
+    title: "New here?"
+    excerpt: "The video shows first steps in NEST Desktop"
+    url: "https://youtu.be/lQHppErKoG4"
+    target: _blank
+    btn_label: "Watch video"
+  - image_path: /assets/img/unsplash/jeshoots-com--2vD8lIhdnw-unsplash.jpg
+    title: "How to?"
+    excerpt: "User guide for NEST Desktop"
+    url: "https://nest-desktop.readthedocs.io/en/latest/user/index.html"
+    target: _blank
+    btn_label: "Read user guide"
+  - image_path: /assets/img/unsplash/marvin-meyer-SYTO3xs06fU-unsplash.jpg
+    title: "Workshop"
+    excerpt: "Prepare a workshop or a course for students"
+    url: "https://nest-desktop.readthedocs.io/en/latest/lecturer/index.html"
+    target: _blank
+    btn_label: "Read lecture guide"
+  - image_path: /assets/img/unsplash/chris-ried-ieic5Tq8YMk-unsplash.jpg
+    alt: "Contribute"
+    title: "A bug or an idea?"
+    excerpt: "You want to report a bug or suggest a feature"
+    url: "https://nest-desktop.readthedocs.io/en/latest/contribute.html"
+    target: _blank
+    btn_label: "Contribute"
+  - image_path: /assets/img/unsplash/elisa-calvet-b-OZDVjtMxIvo-unsplash.jpg
+    alt: "Paper"
+    title: "More about it?"
+    excerpt: "Learn the background about NEST Desktop"
+    url: "https://www.eneuro.org/content/8/6/ENEURO.0274-21.2021"
+    target: _blank
+    btn_label: "Read paper"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include badges %}
