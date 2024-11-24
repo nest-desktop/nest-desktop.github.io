@@ -115,7 +115,7 @@ author:
   name: "Sebastian Spreizer"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "The main developer of NEST Desktop"
-  location: "Somewhere in Germany"
+  # location: "Somewhere"
   email: spreizer@web.de
   links:
     - label: "Email"
