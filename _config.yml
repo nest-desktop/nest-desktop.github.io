@@ -17,13 +17,13 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 title: "NEST Desktop"
-latest_release: v4.0.3
+latest_release: v4.0.4
 # title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Sebastian Spreizer"
 description: "NEST Desktop is a web-based GUI application for the simulation of spiking neuronal networks."
 url: "https://nest-desktop.github.io"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "nest-desktop/nest-desktop"
 teaser: "/assets/img/header.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/img/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
