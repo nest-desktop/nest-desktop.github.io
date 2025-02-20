@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale: "en-US"
 title: "NEST Desktop"
-latest_release: v4.0.4
+latest_release: v4.0.5
 # title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Sebastian Spreizer"
